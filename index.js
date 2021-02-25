@@ -1,1 +1,5 @@
-// write your code below!
+function console.log (`happyHolidays`) {
+  return string to ("happyHolidays!") 
+}
+
+}
